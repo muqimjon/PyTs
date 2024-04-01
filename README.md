@@ -1,0 +1,1 @@
+Typescript code integrated into Python. For Python programmers, it is possible to write code in TypeScript without leaving their environment. Allows you to use many TypeScript codes based on Python syntax.
