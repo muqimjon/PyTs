@@ -1,6 +1,6 @@
 {
   "name": "pyts",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "TypeScript code integreted into Python. For Python programmers, it is possible to write code in typescript without leaving their environment. Allows you to use many TypeScript codes based on Python syntax.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -16,6 +16,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^29.5.12",
+    "@types/readline-sync": "^1.4.8",
     "jest": "^29.7.0",
     "ts-jest": "^29.1.2",
     "ts-node": "^10.9.2",
